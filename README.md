@@ -2,6 +2,7 @@
 # Mosquito controls
 
 This repository contains the code (and the figure) needed to build a MATLAB app useful for developing strategies for controlling a wild mosquito population. The implementation of the dynamical system describing the evolution of mosquitoes is based on the work of Claire Dufourd and Yves Dumont.
+
 ![Logo](https://raw.githubusercontent.com/LucaZepponi/mosquito_controls/main/mosquito_icon.png)
 
 
